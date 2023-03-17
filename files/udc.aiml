@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>Bienvenido ¿En que puedo ayudarte? </template>
+  </category>
+  <category>
+      <pattern>Quien eres</pattern>
+    <template>Hola, mi nombre es Kodo. Soy el bot de la empresa. Estoy aquí para resolver tus dudas </template>
+  </category>
+  <category>
+      <pattern>Cual es tu correo</pattern>
+      <template>josemaria@uegmobile.com</template>
+  </category>
+  <category>
+      <pattern>Que es visionarios bolsa</pattern>
+      <template>Es un curso de bolsa americana donde te enseñamos a rentabilizar tus ahorros al máximo con un método de inversión fiable. Pero, además, es también una Comunidad de inversores donde podrás compartir tus ideas con el resto de alumnos en el Chat o en el Foro, y así obtener puntos e insignias. Gracias a nuestro novedoso sistema de gamificación podrás ganar Reputación en la Comunidad y escalar puestos en el Ranking Visionarios.
+    </template>
+  </category>
+  <category>
+      <pattern>quien no deberia realizar el curso</pattern>
+      <template>Aquellos que piensan que en la bolsa te haces rico rápido sin poner nada de tu parte. El sistema verás que tiene sentido y es muy completo, pero hay que estudiarlo a fondo y requiere tener horas de vuelo para conocerlo bien.
+</template>
+  </category>
+  <category>
+      <pattern>Quien debería realizar el curso</pattern>
+      <template>Cualquier persona que quiera lanzarse a invertir en bolsa en serio y empezar con buen pie.
+                También para cualquier persona que, con algo de experiencia, quiere aprender una estrategia para gestionar su propio patrimonio a medio/largo plazo.
+                https://visionariosbolsa.com/curso-de-bolsa 
+                </template>
+  </category>
+  <category>
+      <pattern>Quien puede realizar el curso</pattern>
+      <template>Cualquier persona que quiera lanzarse a invertir en bolsa en serio y empezar con buen pie.
+                También para cualquier persona que, con algo de experiencia, quiere aprender una estrategia para gestionar su propio patrimonio a medio/largo plazo.
+                https://visionariosbolsa.com/curso-de-bolsa</template>
+  </category>
+  <category>
+      <pattern>Tengo que saber algo de antemano</pattern>
+      <template>No. Sólo necesitas que te guste la bolsa y tengas muchísimas ganas de aprender. Hasta ahora se han apuntado alumnos de todo tipo: gente que empezaba de cero, y gente que ya ha hecho muchos cursos y no estando conforme con sus resultados, quizá buscaba algo mejor. La estructura del curso es perfecta en ese sentido.
+    </template>
+  </category>
+  <category>
+    <pattern>Como esta estructurado el curso</pattern>
+    <template>El curso consta de 2 partes: la parte teórica y la parte práctica o Comunidad.
+            La primera está compuesta por 12 módulos que se van desbloqueando a medida que vas avanzando. Cada módulo tiene varios vídeos, diapositivas, lecturas, vocabulario y exámenes que deberás completar para avanzar a la siguiente lección, todo ello con el fin de complementar la formación.
+            En la segunda parte, ya conocerás perfectamente la estrategia de inversión y estarás preparado para ponerlo en práctica, operando en real dentro de la Comunidad. Tendrás acceso a los Chats y al Foro, herramientas ideales para conocer a los otros Visionarios, resolver dudas y compartir todo lo que sabes. También tendrás acceso a la Cartera Modelo. </template>
+  </category>
+  <category>
+    <pattern>Donde es el curso</pattern>
+    <template>El curso totalmente online, por lo que no tendrás que desplazarte de casa. Esto te permite cursarlo cuando tú quieras y puedas, con tus horarios. Además, también tendrás acceso al contenido en tu móvil o tablet gracias a la App de Visionarios Bolsa.
+ </template>
+  </category>
+  <category>
+      <pattern>Hablame sobre para quien es el curso</pattern>
+      <template>
+          <think><set name = "eso"><star/></set></think>
+          Aqui tiene informacion sobre el curso<br/>
+          <formal>
+              <star/>
+          </formal>
+          <button>
+              <text>Pulse aquí</text>
+              <url>https://visionariosbolsa.com/curso-de-bolsa</url>
+          </button>
+      </template>
+  </category>
+  <category>
+      <pattern>Hablame sobre la experiencia de los alumnos</pattern>
+      <template>
+          <think><set name = "eso"><star/></set></think>
+          Aqui tiene informacion sobre la experiencia de los alumnos<br/>
+          <formal>
+              <star/>
+          </formal>
+          <button>
+              <text>Pulse aquí</text>
+              <url>https://visionariosbolsa.com/experiencias-alumnos</url>
+          </button>
+      </template>
+  </category>
+  <category>
+      <pattern>Quienes sois</pattern>
+      <template>
+          <think><set name = "eso"><star/></set></think>
+          Aqui tiene informacion sobre quienes somos<br/>
+          <formal>
+              <star/>
+          </formal>
+          <button>
+              <text>Pulse aquí</text>
+              <url>https://visionariosbolsa.com/quienes-somos</url>
+          </button>
+      </template>
+  </category>
+  <category>
+      <pattern>Cual es vuestro blog</pattern>
+      <template>
+          <think><set name = "eso"><star/></set></think>
+          Aqui tiene informacion sobre nuestro blog<br/>
+          <formal>
+              <star/>
+          </formal>
+          <button>
+              <text>Pulse aquí</text>
+              <url>https://visionariosbolsa.com/quienes-somos</url>
+          </button>
+      </template>
+  </category>
+  <category>
+      <pattern>Como me apunto al curso</pattern>
+      <template>
+          <think><set name = "eso"><star/></set></think>
+          Aqui tiene informacion sobre apuntarse al curso<br/>
+          <formal>
+              <star/>
+          </formal>
+          <button>
+              <text>Pulse aquí</text>
+              <url>https://visionariosbolsa.com/apuntate-ahora</url>
+          </button>
+      </template>
+  </category>
+  <category>
+      <pattern>Como inicio sesion</pattern>
+      <template>
+          <think><set name = "eso"><star/></set></think>
+          Aqui tiene el enlace para iniciar sesión<br/>
+          <formal>
+              <star/>
+          </formal>
+          <button>
+              <text>Pulse aquí</text>
+              <url>https://visionariosbolsa.com/apuntate-ahora</url>
+          </button>
+      </template>
+  </category>
+  <category>
+      <pattern>Hay un periodo de prueba gratis</pattern>
+      <template>
+          <think><set name = "eso"><star/></set></think>
+          Si. Aquí tiene el enlace para poder acceder a él<br/>
+          <formal>
+              <star/>
+          </formal>
+          <button>
+              <text>Pulse aquí</text>
+              <url>https://visionariosbolsa.com/crea-tu-cuenta</url>
+          </button>
+      </template>
+  </category>
+  <category>
+      <pattern>Cuales son los beneficios del curso</pattern>
+      <template>Cuando tienes los conocimientos de una estrategia de inversión basada en el sentido común, las herramientas adecuadas y una Comunidad de inversores con tus mismas inquietudes que te apoyan, ganar dinero en bolsa se vuelve mucho más fácil.<br/>
+      <br/>En la página principal podrás consultar todos los beneficios disponibles</template>
+  </category>
+</aiml>
