@@ -154,4 +154,151 @@
       <template>Cuando tienes los conocimientos de una estrategia de inversión basada en el sentido común, las herramientas adecuadas y una Comunidad de inversores con tus mismas inquietudes que te apoyan, ganar dinero en bolsa se vuelve mucho más fácil.<br/>
       <br/>En la página principal podrás consultar todos los beneficios disponibles</template>
   </category>
+  <category>
+      <pattern>Que voy a ver en la parte teorica</pattern>
+    <template>Nada más acceder, tendrás acceso al Curso, y podrás modificar tu Perfil para darte a conocer en la Comunidad y así ganar tus primeros puntos de Reputación y empezar a aparecer en el Ranking Visionarios. También recibirás acceso automático a nuestra herramienta de graficación SuperStocks.<br/>
+    <br/>
+    En la teoría, irás de menos a más. Empezarás con módulos más generales donde se sientan las bases de los mercados bursátiles y, a medida que avances en el curso, irás entrando en materia y empezarás a ver aspectos más técnicos y específicos hasta conocer cada detalle del sistema Visionarios Bolsa. No importa si sabes o no de bolsa, con esta formación aprenderás todo lo que tienes que saber para invertir en bolsa con éxito.<br/>
+    <br/>
+    El curso está estructurado de la siguiente manera:<br/>
+    <br/>
+    Módulo 0: Bienvenida
+    Bienvenida y videotutoriales para sacarle el máximo partido al Curso y a todas las herramientas de la Comunidad Visionarios.<br/>
+    <br/>
+    Módulo 1: Mercado de Valores
+    Sienta las bases sobre el Mercado de Valores y entiende cómo funciona la bolsa en realidad.<br/>
+    <br/>
+    Módulo 2: Idea de Empresa
+    Aprende a analizar las mejores empresas desde el punto de vista del modelo de negocio. ¿A qué se dedican? ¿Qué tipo de producto/servicio venden? ¿Cumplen con nuestros requisitos de Idea Visionaria?<br/>
+    <br/>
+    Módulo 3: Análisis Fundamental
+    ¿Qué características en cuanto a los fundamentales tienen las mejores empresas de crecimiento? ¿Cómo encontrarlas y analizarlas?<br/>
+    <br/>
+    Módulo 4: Plataformas Web de Análisis Fundamental
+    Explicación paso a paso del funcionamiento y manejo de las mejores plataformas web para análisis fundamental.<br/>
+    <br/>
+    Módulo 5: Análisis Técnico
+    ¿Qué patrones técnicos forman las acciones antes de realizar sus movimientos explosivos? ¿Cómo determinar si es el momento perfecto para entrar?<br/>
+    <br/>
+    Módulo 6: Plataformas Web de Análisis Técnico
+    Explicación paso a paso del funcionamiento y manejo de las mejores plataformas web para análisis técnico.<br/>
+    <br/>
+    Módulo 7: Gestión de Riesgo
+    Cómo gestionar las posiciones en cartera, el riesgo operativo, el riesgo divisa, apalancamiento...<br/>
+    <br/>
+    Módulo 8: Operativa
+    Aprender a poner órdenes en el mercado. Estrategias para controlar la situación cuando tenemos dinero en juego<br/>
+    <br/>
+    Módulo 9: Backtesting
+    Analizar los resultados obtenidos. ¿Qué puedo mejorar? ¿Qué puedo potenciar?<br/>
+    <br/>
+    Módulo 10: Bróker
+    ¿Cuál es el mejor bróker? ¿Cómo utilizarlo y sacarle el máximo partido? ¿Cómo abrir cuenta?<br/>
+    <br/>
+    Módulo 11: Fiscalidad
+    ¿Cómo funciona la fiscalidad en España? Todo lo que debes saber.<br/>
+    <br/>
+    Módulo 12: Visionario como Estilo de Vida
+    El día a día y la mentalidad del Visionario. Entiende cómo piensa y actúa un verdadero inversor de bolsa.<br/>
+    <br/>
+
+     </template>
+  </category>
+  <category>
+      <pattern>Que es la reputacion y el ranking visionarios</pattern>
+    <template>
+        Hoy día hay muchos formadores y cursos que también cuentan con sus chats y foros, pero ninguno de ellos destaca por su calidad formativa o por tener grandes comunidades.<br/>
+        <br/>
+        En Visionarios Bolsa ya contamos con un curso excelente y una Comunidad increíble, pero quisimos sacar nuestro máximo potencial como empresa y crear la mejor Comunidad de Inversores del mundo.<br/>
+        <br/>
+        Albert Einstein dijo una vez que "no entiendes algo realmente, a menos que seas capaz de explicárselo a tu abuela."<br/>
+        <br/>
+        En Visionarios llevamos años formando personas y hemos visto que los alumnos que más se implican, más participan y más ayudan a los demás compañeros, son lo que más aprenden y refuerzan su conocimiento… y también son los que mejores resultados en bolsa obtienen.<br/>
+        <br/>
+        Por ello, diseñamos un sistema de gamificación basado en Puntos e Insignias que permiten a los miembros obtener respeto dentro de la Comunidad gracias a su Reputación y a su Ranking, además de premios en metálico.<br/>
+        <br/>
+        El sistema funciona por meritocracia, es decir, los Visionarios que más ayuden y más aportaciones de calidad hagan en la Comunidad, serán los que más Puntos e Insignias obtengan, además de ser los que más aprendan y refuercen su conocimiento.<br/>
+        <br/>
+        La idea es que todos los alumnos quieran participar e implicarse, motivados por la obtención de premios y prestigio en la Comunidad. Esto, inherentemente, les hará mejores inversores de bolsa, que es nuestro objetivo.<br/>
+    </template>
+  </category>
+  <category>
+    <pattern>Porque es tan importante para la comunidad</pattern>
+    <template>
+        Porque el periodo más difícil para el trader no es cuando está en su casa leyendo tranquilamente un libro de bolsa o haciendo un curso. Tampoco es cuando ya tiene experiencia y es un trader consistentemente rentable. El periodo más difícil son sus primeros meses en operativa real. Ahí es cuando se determinará si el inversor sobrevive o muere para siempre (y el 95% muere!).<br/>
+        <br/>
+        La mayoría de formadores enseñan cómo se opera teóricamente y ahí termina el curso. Cuando el alumno se dispone a invertir por primera vez, lógicamente surgen dudas. Uno está sólo y es muy fácil cometer errores o desviarse del plan. Esto siempre va a peor y uno acaba volando su cuenta de inversión por los aires.<br/>
+        <br/>
+        En la Comunidad Visionarios nunca estarás sólo. Irás acompañado durante todo el proceso formativo que continúa incluso después de haber hecho el curso teórico. Accederás a herramientas clave que te ayudarán a interiorizar el sistema de inversión:<br/>
+        <br/>
+        Chats Visionarios: Aquí encontrarás un chat educativo en el que vamos explicando paso a paso lo que vamos haciendo en la Cartera Modelo y el porqué de lo que está ocurriendo en los mercados en ese preciso momento.<br/>
+        <br/>
+        También encontrarás un chat general en el que podrás conversar con el resto de miembros de la Comunidad, intercambiar impresiones, hacer preguntas y resolver tus dudas sobre el mercado y empresas, etc.<br/>
+        <br/>
+        Foro Visionarios: Este es el lugar donde los Visionarios proponen nuevas ideas de inversión, se resuelven dudas y se hacen aportaciones que puedan ser de ayuda a todos los miembros de la Comunidad. Es el sitio ideal para conocer a personas con tu misma mentalidad y objetivos.<br/>
+        <br/>
+        Cartera Modelo: Aquí encontrarás las empresas que van entrando en vigilancia y en cartera, con los puntos de entrada y salida y toda la información sobre la acción para que puedas entender el porqué de cada operación.<br/>
+        <br/>
+        El objetivo en la parte práctica o Comunidad es que tú puedas, después de los 6 meses que dura esta parte, tener una base sólida con la cual generar tus propias ideas de inversión sin nuestra supervisión. Muchos de los Visionarios antes de terminar los 6 meses ya lo consiguen. Además, los alumnos que ponen verdaderamente de su parte logran recuperar varias veces la inversión en el curso en ese espacio temporal.<br/>
+        <br/>
+    </template>
+  </category>
+  <category>
+    <pattern>Cuanto tiempo tengo que dedicarle al curso para ir al dia</pattern>
+    <template>
+        La parte teórica del curso contiene un total de 12 horas de video. Se trata de videos de corta duración de entre 5 a 15 minutos en su mayoría para que el aprendizaje sea sencillo y dinámico.    <br/>
+            <br/>
+        El tiempo que le quieras dedicar depende de ti. Una vez adquieres el curso, ya es tuyo y tendrás acceso ilimitado de por vida, por lo que puedes cursarlo tan rápido como desees.
+    </template>
+  </category>
+  <category>
+    <pattern>Soy malo en la tecnologia podre manejar bien las plataformas</pattern>
+    <template>Existen dos módulos enteros dedicados a explicarte paso a paso todas las plataformas que se ven durante el curso. No hace falta tener ningún tipo de experiencia anterior.
+  </template>
+  </category>
+  <category>
+    <pattern>Necesito ingles para hacer el curso</pattern>
+    <template>No. El curso es de bolsa americana pero orientado precisamente a personas de habla hispana. Lo mismo sucede con las plataformas, aunque sean en inglés, una vez que las sepas manejar sabrás perfectamente qué es cada cosa. Además, en cada módulo encontrarás adjunto una hoja de vocabulario español-inglés para conocer bien la jerga bursátil asociada a cada tema.
+ </template>
+  </category>
+  <category>
+    <pattern>Todas las plataformas son de pago</pattern>
+    <template>No. Algunas son gratuitas y otras son de pago. Enseñamos a utilizar todas y tú decides cuál prefieres, puesto que va en función de gustos.
+ </template>
+  </category>
+  <category>
+    <pattern>Que precio tiene el curso</pattern>
+    <template>El precio del curso es de 1.497 €, aunque también puedes adquirirlo haciendo 3 pagos de 597 € si prefieres realizar el pago a plazos.
+ </template>
+  </category>
+  <category>
+    <pattern>Hay algun tipo de garantia en tus resultados</pattern>
+    <template>
+        En la bolsa no hay garantías, puede pasar cualquier cosa... pero nosotros sí damos una garantía que hasta ahora nadie más da en el mundo de la formación financiera. Funciona de la siguiente manera: te registras al curso, pruebas durante 30 días o bien hasta la mitad del curso, y si no te convence, te devuelvo el dinero sin pedirte explicaciones. Además, te compenso con un 10% del precio del Curso, es decir con 149,7 €.<br/>
+        <br/>
+        Antes de que te preguntes por qué hacemos esto, o si estamos locos... te sigo explicando:Primero, pensamos que, si te hemos hecho perder el tiempo, que es el recurso más valioso que tenemos, debemos compensarte de alguna forma. Segundo, la mayoría de alumnos hacen cursos carísimos de los que se arrepienten porque luego no dan resultado... esto pasa 3-4 veces hasta que, o bien dan con uno en el que por fin aprenden (y después de haber gastado un montón), o bien dejan de seguir buscando porque están hartos de tirar su dinero.<br/>
+        <br/>
+        Decidimos poner esta garantía porque sabemos que existen muchos "vende- humo" en este mundo y somos conscientes de que podría haber potenciales alumnos que decidiesen no apuntarse al curso por si Visionarios Bolsa fuese "otro curso más".<br/>
+        <br/>
+        El objetivo de la garantía es liberarte a ti de todo riesgo, poniendo todo el existente en nuestro lado: lo peor que puede pasar es haber tenido un coste de oportunidad por esos 1.497 €, que aprendas la mitad de un sistema para invertir a medio/largo plazo que funciona, y que te lleves casi 150 €. Lo mejor que puede pasarte es que sigas hasta el final con la formación y te unas a los otros Visionarios para seguir compartiendo ideas de inversión en un ambiente de bolsa donde todos queremos crecer, mejorar y ganar como inversores.<br/>
+        <br/>
+        Lógicamente eso es algo que sólo puedes hacer si estás muy seguro de lo que haces. Los Visionarios están realmente contentos con sus resultados y, hasta la fecha, la tasa de devolución es de tan sólo 1,5% y fueron casos en los cuales no pudieron continuar con el curso por razones ajenas al mismo.<br/>
+    </template>
+  </category>
+  <category>
+    <pattern>Como me registro</pattern>
+    <template>
+        El acceso al curso y a la plataforma los adquieres nada más apuntarte.<br/>
+        <br/>
+        Para registrarte sólo tienes que clicar en el botón naranja que verás abajo que dice "APÚNTATE AHORA" y podrás realizar el pago tanto por tarjeta como por PayPal o transferencia bancaria. Te esperamos dentro!
+    </template>
+  </category>
+  <category>
+    <pattern>Cuando podria tener acceso al curso </pattern>
+    <template>
+        El acceso al curso y a la plataforma los adquieres nada más apuntarte.<br/>
+        <br/>
+        Para registrarte sólo tienes que clicar en el botón naranja que verás abajo que dice "APÚNTATE AHORA" y podrás realizar el pago tanto por tarjeta como por PayPal o transferencia bancaria. Te esperamos dentro!
+    </template>
+  </category>
 </aiml>
